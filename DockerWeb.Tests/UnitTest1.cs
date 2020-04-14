@@ -8,7 +8,7 @@ namespace DockerWeb.Tests
         public void Setup()
         {
         }
-        //Sample Test1
+        //Sample Test2
         [Test]
         public void Test1()
         {
